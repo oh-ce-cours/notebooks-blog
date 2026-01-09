@@ -1,15 +1,5 @@
-# Dépendances communes pour tous les notebooks Oh Ce Cours
-# Ces dépendances sont installées par Binder au lancement
+# Dépendances de base pour les notebooks Oh Ce Cours
+# Ajouter des dépendances spécifiques dans chaque dossier d'article si besoin
 
-# Data science essentials
-numpy>=1.24
-pandas>=2.0
-
-# Visualisation
-matplotlib>=3.7
-
-# Pour les exemples de typing
+# Pour les exemples de typing avancé
 typing-extensions>=4.0
-
-# Testing (pour les exemples de tests)
-pytest>=7.0
